@@ -1,11 +1,5 @@
-"setup pathogen for path management
-"call pathogen#infect('~/.vim/bundle')
-" do this from .vimrc
-"call pathogen#infect()
-"call pathogen#helptags()
-
 syntax on
-set nocompatible
+set nocompatible 
 filetype on
 filetype indent on
 filetype plugin on
